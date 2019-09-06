@@ -37,6 +37,7 @@
 #include "emane/utils/conversionutils.h"
 
 #include <algorithm>
+#include <functional>
 
 namespace
 {

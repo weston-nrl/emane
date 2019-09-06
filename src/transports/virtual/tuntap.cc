@@ -40,6 +40,7 @@
 #include <sys/socket.h>
 #include <unistd.h>
 #include <fcntl.h>
+#include <sys/uio.h>
 
 /*
   Create device node: mknod /dev/net/tun c 10 200
